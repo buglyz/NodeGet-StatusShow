@@ -1,0 +1,18 @@
+{
+  "site_name": "Orbit Deck",
+  "site_logo": "",
+  "theme_name": "orbit-deck",
+  "theme_version": "1.1.2",
+  "theme_repo": "",
+  "theme_config": {
+    "version": "1.1.2",
+    "footer": "Orbit Deck for NodeGet"
+  },
+  "site_tokens": [
+    {
+      "name": "master server node 1",
+      "backend_url": "wss://tz.fleey.cceu.cc",
+      "token": "G9fNXYBCodSsztXB:JiVCKoHooouaLX8SccCvGjQBlVSfshTI"
+    }
+  ]
+}

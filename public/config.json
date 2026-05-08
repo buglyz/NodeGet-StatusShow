@@ -11,7 +11,7 @@
   "site_tokens": [
     {
       "name": "master server node 1",
-      "backend_url": "wss://tz.fleey.cceu.cc",
+      "backend_url": "wss://tz.fleey.ccwu.cc",
       "token": "G9fNXYBCodSsztXB:JiVCKoHooouaLX8SccCvGjQBlVSfshTI"
     }
   ]
